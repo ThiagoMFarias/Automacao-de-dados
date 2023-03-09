@@ -1,4 +1,4 @@
 # Automação de dados
- Automação utilizando pyautogui lib
+ Automação utilizando a biblioteca pyautogui.
 
  Repositório criado durante uma aula no youtube!
